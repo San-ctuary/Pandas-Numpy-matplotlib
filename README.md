@@ -1,3 +1,7 @@
-### 利用python进行数据分析笔记
+# pandas,numpy,matplotlib库总结
 
-这是我学习《利用python进行数据分析》时候敲的代码和一些笔记
+## Pandas
+
+- 《利用python进行数据分析》第五章Pandas各节代码
+- map，apply，applymap
+- groupby，agg，transform
